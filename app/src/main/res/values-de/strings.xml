@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wohnimmobilieninvestor Tools</string>
+    <string name="about_description">Erstellt von www.ingloriousmind.com. Powered by #Android #Kotlin #Anko. Danke fürs auschecken.</string>
+
+    <string name="label_acquisition_cost">Kaufpreis</string>
+    <string name="label_purchase_related_costs">Kaufnebenkosten (%)</string>
+    <string name="label_annual_net_rent">Jahresnettomiete</string>
+    <string name="label_annual_running_costs">Jährliche Bewirtschaftungskosten</string>
+    <string name="label_extended_acquisition_cost">Anschaffungskosten</string>
+    <string name="label_adjusted_annual_net_rent">Jährlicher Ertrag</string>
+    <string name="label_yield">Rendite</string>
+    <string name="label_multiplier">Multiplikator</string>
+
+</resources>

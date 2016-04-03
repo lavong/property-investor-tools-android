@@ -1,0 +1,12 @@
+.gradle
+local.properties
+build
+.idea
+*.iml
+libs/
+obj/
+.DS_Store
+captures
+bin
+gen
+out

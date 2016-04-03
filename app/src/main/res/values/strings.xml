@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Residential Property Investor Tools</string>
+    <string name="about_description">Brought to you by www.ingloriousmind.com. Powered by #Android #Kotlin #Anko. Thanks for checking out the app.</string>
+
+    <string name="label_acquisition_cost">Acquisition cost</string>
+    <string name="label_purchase_related_costs">Purchase-related costs (%)</string>
+    <string name="label_annual_net_rent">Net rent p.a.</string>
+    <string name="label_annual_running_costs">Running costs p.a.</string>
+    <string name="label_extended_acquisition_cost">Ext. acquisition cost</string>
+    <string name="label_adjusted_annual_net_rent">Adj. net rent p.a.</string>
+    <string name="label_yield">Yield</string>
+    <string name="label_multiplier">Multiplier</string>
+
+    <string name="hint_acquisition_cost">290000</string>
+    <string name="hint_purchase_related_costs">12</string>
+    <string name="hint_annual_net_rent">11400</string>
+    <string name="hint_annual_running_costs">4200</string>
+
+    <string name="format_no_decimal_place">%1$.0f</string>
+    <string name="format_yield">%1$.2f %%</string>
+    <string name="format_multiplier">%1$.2f</string>
+
+</resources>
