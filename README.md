@@ -1,5 +1,7 @@
 # property-investor-tools-android
 
+[![Build Status](https://travis-ci.org/lavong/property-investor-tools-android.svg?branch=master)](https://travis-ci.org/lavong/property-investor-tools-android)
+
 Small app to help you check the yield for a residential property.
 
 ![](art/propertyinvestortools.gif "property investor tools")
