@@ -13,6 +13,10 @@ android:
     - extra-android-m2repository
     - extra-google-m2repository
 
+before_install:
+  - yes | sdkmanager --update &>/dev/null
+  - yes | sdkmanager --licenses &>/dev/null
+
 script:
   - ./gradlew assembleDebug
   - ls -l app/build/outputs/apk/
