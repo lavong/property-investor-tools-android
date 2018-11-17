@@ -13,4 +13,13 @@
     <string name="label_yield">Rendite</string>
     <string name="label_multiplier">Multiplikator</string>
 
+    <string name="hint_acquisition_cost">290000</string>
+    <string name="hint_purchase_related_costs">12</string>
+    <string name="hint_annual_net_rent">11400</string>
+    <string name="hint_annual_running_costs">4200</string>
+
+    <string name="format_no_decimal_place">%1$.0f</string>
+    <string name="format_yield">%1$.2f %%</string>
+    <string name="format_multiplier">%1$.2f</string>
+
 </resources>
